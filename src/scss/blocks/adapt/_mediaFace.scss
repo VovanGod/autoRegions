@@ -1,6 +1,6 @@
 @media (max-width: 1000px) {
     .face {
-        .h1 {
+        h1 {
             font-size: 40px;
             line-height: 71px;
             padding: 16px;
@@ -40,7 +40,7 @@
     .circles li:nth-child(5) {
         left: 58%;
     }
-    .face .h1 {
+    .face h1 {
         font-size: 35px;
         line-height: 50px;
         padding: 16px;
@@ -48,7 +48,7 @@
 }
 
 @media (max-width: 500px) {
-    .face .h1 {
+    .face h1 {
         font-size: 30px;
         line-height: 50px;
         padding: 10px;
