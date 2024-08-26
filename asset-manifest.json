@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/autoRegions/static/css/main.39fede5a.css",
+    "main.css": "/autoRegions/static/css/main.aea263dc.css",
     "main.js": "/autoRegions/static/js/main.fa01bcea.js",
     "static/media/BaystarScriptMedium-PERSONAL_USE_ONLY.otf": "/autoRegions/static/media/BaystarScriptMedium-PERSONAL_USE_ONLY.15bb9aa250ab21e2d264.otf",
     "static/media/BaystarScriptBold-PERSONAL_USE_ONLY.otf": "/autoRegions/static/media/BaystarScriptBold-PERSONAL_USE_ONLY.9de0eaeaef6ca9c4b197.otf",
     "static/media/BaystarScriptLight-PERSONAL_USE_ONLY.otf": "/autoRegions/static/media/BaystarScriptLight-PERSONAL_USE_ONLY.48f2fc2efc14a03778a8.otf",
     "index.html": "/autoRegions/index.html",
-    "main.39fede5a.css.map": "/autoRegions/static/css/main.39fede5a.css.map",
+    "main.aea263dc.css.map": "/autoRegions/static/css/main.aea263dc.css.map",
     "main.fa01bcea.js.map": "/autoRegions/static/js/main.fa01bcea.js.map"
   },
   "entrypoints": [
-    "static/css/main.39fede5a.css",
+    "static/css/main.aea263dc.css",
     "static/js/main.fa01bcea.js"
   ]
 }
