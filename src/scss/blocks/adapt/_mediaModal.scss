@@ -1,0 +1,16 @@
+@media (max-width: 600px) {
+    .navbar {
+        .logo {
+            font-size: 25px;
+            column-gap: 5px;
+
+            img {
+                width: 25px;
+            }
+        }
+
+        .burger {
+            width: 35px;
+        }
+    }
+}
