@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/autoRegions/static/css/main.2d72f984.css",
-    "main.js": "/autoRegions/static/js/main.fa01bcea.js",
-    "static/media/BaystarScriptMedium-PERSONAL_USE_ONLY.otf": "/autoRegions/static/media/BaystarScriptMedium-PERSONAL_USE_ONLY.15bb9aa250ab21e2d264.otf",
-    "static/media/BaystarScriptBold-PERSONAL_USE_ONLY.otf": "/autoRegions/static/media/BaystarScriptBold-PERSONAL_USE_ONLY.9de0eaeaef6ca9c4b197.otf",
-    "static/media/BaystarScriptLight-PERSONAL_USE_ONLY.otf": "/autoRegions/static/media/BaystarScriptLight-PERSONAL_USE_ONLY.48f2fc2efc14a03778a8.otf",
-    "index.html": "/autoRegions/index.html",
-    "main.2d72f984.css.map": "/autoRegions/static/css/main.2d72f984.css.map",
-    "main.fa01bcea.js.map": "/autoRegions/static/js/main.fa01bcea.js.map"
+    "main.css": "/VovanGod/autoRegions.git/static/css/main.51616abd.css",
+    "main.js": "/VovanGod/autoRegions.git/static/js/main.68c40216.js",
+    "static/media/BaystarScriptMedium-PERSONAL_USE_ONLY.otf": "/VovanGod/autoRegions.git/static/media/BaystarScriptMedium-PERSONAL_USE_ONLY.15bb9aa250ab21e2d264.otf",
+    "static/media/BaystarScriptBold-PERSONAL_USE_ONLY.otf": "/VovanGod/autoRegions.git/static/media/BaystarScriptBold-PERSONAL_USE_ONLY.9de0eaeaef6ca9c4b197.otf",
+    "static/media/BaystarScriptLight-PERSONAL_USE_ONLY.otf": "/VovanGod/autoRegions.git/static/media/BaystarScriptLight-PERSONAL_USE_ONLY.48f2fc2efc14a03778a8.otf",
+    "index.html": "/VovanGod/autoRegions.git/index.html",
+    "main.51616abd.css.map": "/VovanGod/autoRegions.git/static/css/main.51616abd.css.map",
+    "main.68c40216.js.map": "/VovanGod/autoRegions.git/static/js/main.68c40216.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d72f984.css",
-    "static/js/main.fa01bcea.js"
+    "static/css/main.51616abd.css",
+    "static/js/main.68c40216.js"
   ]
 }
