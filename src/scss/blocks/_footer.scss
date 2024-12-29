@@ -1,0 +1,60 @@
+.footer {
+    padding: 50px 0;
+    background: #1e242c;
+    text-align: center;
+
+    &-wrapper {
+        display: flex;
+        justify-content: center;
+        column-gap: 50px;
+        margin-top: 80px;
+    }
+
+    &-h2 {
+        color: #8c4bff;
+        font-family: 'Baystar Script';
+        font-size: 40px;
+        user-select: none;
+    }
+
+    &-link {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 70px;
+        height: 70px;
+        background: #262f38;
+        
+        border-radius: 6px;
+        transition: background .15s ease-in, margin-top .2s ease-in-out;
+
+        &-wrap {
+            cursor: pointer;
+        }
+
+        &-wrap:hover {
+            .footer-link {
+                background: #8c4bff;
+                margin-top: -5px;
+            }
+        }
+
+        img {
+            width: 40px;
+        }
+
+    }
+
+    .down {
+        color: #8f9aa7;
+        text-align: center;
+        margin-top: 30px;
+        letter-spacing: .8px;
+        user-select: none;
+
+        span {
+            color: #8c4bff;
+            margin-left: 4px;
+        }
+    }
+}

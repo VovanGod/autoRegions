@@ -1,0 +1,118 @@
+.list {
+    padding: 100px 0 200px 0;
+    background-color: #fff;
+    color: #000;
+    transition: height 0.4s ease-in;
+
+    &-wrap {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        row-gap: 50px;
+        margin-top: 80px;
+    }
+}
+
+.card {
+    position: relative;
+    border-radius: 5px;
+    background: #000;
+    padding: 8px;
+    max-width: 666px;
+    cursor: pointer;
+
+
+    &-light {
+        display: flex;
+        column-gap: 10px;
+        position: relative;
+    }
+
+    .main {
+        position: relative;
+        img {
+            width: 500px;
+            border-radius: 5px;
+        }
+    }
+
+    &-header {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #000;
+        color: #8c4bff;
+        border-radius: 5px;
+        max-width: 666px;
+        padding: 10px 10px 5px 10px;
+        user-select: none;
+        text-align: center;
+
+        font-family: 'Baystar Script';
+        font-weight: 400;
+        font-size: 30px;
+        border-bottom: 2px #8c4bff solid;
+
+        img {
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 25px;
+        }
+    }
+}
+
+.search {
+    width: 250px;
+    height: 45px;
+    box-sizing: border-box;
+    border: 2px solid #000;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding: 15px 18px;
+    cursor: text;
+    transition: width 0.3s ease-in-out;
+
+    &-active {
+        width: 350px;
+    }
+
+    img {
+        margin-right: 10px;
+        width: 20px;
+    }
+
+    input::placeholder {
+        color: #8c4bff;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 1px;
+    }
+}
+
+.explanation {
+    margin-top: 8px;
+    font-size: 14px;
+
+    display: flex;
+    align-items: center;
+    column-gap: 4px;
+    img {
+        width: 18px;
+    }
+}
+
+.click-me {
+    position: absolute;
+    background: #fff;
+    padding: 10px 15px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    letter-spacing: 0.5px;
+    border-radius: 6px;
+    opacity: 0;
+}
